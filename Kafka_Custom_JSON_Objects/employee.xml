@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <empId>1001</empId>
+    <empName>Rajkumar Papanaboyina</empName>
+    <designation>Developer</designation>
+</employee>
