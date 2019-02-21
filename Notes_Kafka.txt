@@ -1,0 +1,3 @@
+sudo bin/connect-standalone etc/schema-registry/connect-avro-standalone.properties etc/kafka-connect-jdbc/mysql-source.properties
+
+sudo ./kafka-avro-console-consumer --topic topic-mysql-employee --bootstrap-server localhost:9092 --from-beginning
